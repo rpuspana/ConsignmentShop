@@ -15,7 +15,7 @@ namespace ConsignmentShopUI
   {
     // default access modifier for class members is private by default
 
-    // test
+    // test 2
 
     private Store store = new Store();
 
