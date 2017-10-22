@@ -15,6 +15,8 @@ namespace ConsignmentShopUI
   {
     // default access modifier for class members is private by default
 
+    // test
+
     private Store store = new Store();
 
     // list of items selected by the user itemsListbox form
